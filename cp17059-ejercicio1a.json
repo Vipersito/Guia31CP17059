@@ -1,0 +1,19 @@
+{
+  "fichero": {
+    "ficha": [
+      {
+        "nombre": "Moises",
+        "apellido": "Cruz",
+        "direccion": "San Miguel, San Miguel"
+      },
+      {
+        "nombre": "Moises",
+        "apellido": "Cruz",
+        "direccion": "San Miguel, San Miguel",
+        "telefono": 25555555,
+        "email": "cp17059@ues.edu.sv",
+        "url": "xml.cp17059.tpi"
+      }
+    ]
+  }
+}
