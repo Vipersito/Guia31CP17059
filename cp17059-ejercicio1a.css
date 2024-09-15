@@ -1,0 +1,9 @@
+/* CP17059-ejercicio1.css   CP17059  */
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:rgb(84, 162, 102);font-size:1cm; display:none;}
+telefono {color:rgb(192, 102, 63); display:inline;}
+url {color:rgb(101, 76, 142); display:inline;}
+email {color:rgb(164, 68, 90); display:inline;}

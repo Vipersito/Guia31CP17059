@@ -1,0 +1,28 @@
+{
+  "pais": {
+    "moneda": "Dolar estadounidense",
+    "codigo": 503,
+    "idioma": "Español",
+    "departamento": [
+      {
+        "cabecera": "San Salvador",
+        "habitantes": "1,700,000",
+        "altura": "545 MSNM"
+      },
+      {
+        "cabecera": "Santa Tecla",
+        "habitantes": "1,200,000",
+        "altura": "525 MSNM"
+      },
+      {
+        "cabecera": "Santa Ana",
+        "habitantes": "800,000",
+        "altura": "655 MSNM",
+        "volcan": {
+          "altura": "2506MSNM",
+          "estado": "Activo"
+        }
+      }
+    ]
+  }
+}

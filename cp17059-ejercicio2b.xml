@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="cp17059-ejercicio2b.css"?>
+
+<!-- ejemplo2.xml  CP17059 -->
+<pais nombre="El Salvador">
+<moneda> Dolar estadounidense</moneda>
+<codigo>503</codigo>
+<idioma>Español</idioma>
+
+
+          <departamento id="1" nombre="San Salvador">
+          <cabecera>San Salvador</cabecera>
+          <habitantes>1,700,000</habitantes>
+          <altura>545 MSNM</altura>
+          </departamento>
+
+
+          <departamento id="2" nombre="La Libertad">
+          <cabecera>Santa Tecla</cabecera>
+          <habitantes>1,200,000</habitantes>
+          <altura>525 MSNM</altura>
+          </departamento>
+          
+          
+          <departamento id="3" nombre="Santa Ana">
+          <cabecera>Santa Ana</cabecera>
+          <habitantes>800,000</habitantes>
+          <altura>655 MSNM</altura>
+                                          <volcan id="1" nombre="Volcan de Santa Ana">
+                                          <altura>2506MSNM</altura>
+                                          <estado>Activo</estado>
+                                          </volcan>
+            </departamento>
+
+</pais>
