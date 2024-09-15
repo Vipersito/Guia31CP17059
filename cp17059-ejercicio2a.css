@@ -1,9 +1,0 @@
-/* CP17059-ejercicio2.css   CP17059  */
-pais {background-color:rgb(34, 34, 116);}
-moneda {background-color:rgb(35, 119, 52); display:block;} 
-codigo {color:white; display:inline;} 
-idioma {color:yellow; display:inline;}
-departamento {color:yellow;font-size:1cm; display:none;}
-cabecera {color:white; display:inline;} 
-habitantes {color:yellow; display:inline;}
-altura {background-color:rgb(34, 34, 116);}
